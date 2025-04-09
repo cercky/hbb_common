@@ -98,7 +98,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["rd.ctpworld.net"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rd1.ctpworld.net"];
 pub const RS_PUB_KEY: &str = "WAbp9atTGWPi7c4Rw+zzJHFDrreiL7EEOwxI5L6ZeH0=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
